@@ -1,0 +1,25 @@
+{
+  "name": "exchange_gdax",
+  "version": "1.0.0",
+  "main": "test.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gdax": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js",
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Govind13100/exchange_gdax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Govind13100/exchange_gdax/issues"
+  },
+  "homepage": "https://github.com/Govind13100/exchange_gdax#readme",
+  "description": ""
+}
